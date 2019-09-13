@@ -10,7 +10,6 @@ namespace Contacts
     {
         public const string siteUrl= "manasa@technoverg.onmicrosoft.com";
         public const string passWord = "Enter your password:";
-        public const string displayContacts = "Press Enter to display all the items";
         public const string availableContacts = "Available Contacts:";
         public const string menuToPerformOperations = "1.Press 1 to Add An item \n 2.Press 2 to Update An item  \n 3.Press 3 to Delete An item \n 4.Press -1 to exit";
         public const string id="ID";
