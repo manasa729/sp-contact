@@ -25,12 +25,5 @@ namespace Contacts
         public const string field = "Enter the field which you want to update or -1 to exit";
         public const string changedValue = "Enter the changes";
         public const string enterIdToDelete = "Enter the ID of the contact from above displayed Contacts to delete";
-
-
-
-
-
-
-
     }
 }
